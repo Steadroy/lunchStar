@@ -6,7 +6,7 @@
 	function __construct(){
 		// This temp fix ( not to  be  done  )
 		//$this->dbConnection = new mysqli(MYSQLSERVER, MYSQLUSER, MYSQLPASSWORD, MYSQLDB);
-		$this->dbConnection = new mysqli("localhost", "root", "", "userspice");
+		$this->dbConnection = new mysqli("lunchstar.db.10315035.hostedresource.com", "lunchstar", "Rexbob1234#", "lunchstar");
 	}
 	
 	function __destruct(){

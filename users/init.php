@@ -23,10 +23,10 @@ require_once $abs_us_root.$us_url_root.'users/helpers/helpers.php';
 
 // Set config
 $GLOBALS['config'] = array(
-	'mysql'      => array('host'         => 'localhost',
-'username'     => 'root',
-'password'     => '',
-'db'           => 'userspice',
+	'mysql'      => array('host'         => 'lunchstar.db.10315035.hostedresource.com',
+'username'     => 'lunchstar',
+'password'     => 'Rexbob1234#',
+'db'           => 'lunchstar',
 ),
 'remember'        => array(
   'cookie_name'   => 'pmqesoxiw318374csb',
